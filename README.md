@@ -46,7 +46,9 @@ The final dashboard provides a comprehensive view of The Guac Stop's sales opera
 - **Scatter Plot**: Customer-wise analysis of Quantity vs. Sales
 - **Summary Table**: Brand, Subcategory, Quantity, and Sales Price breakdown
 
-> 📌 *Dashboard Screenshot:*  
+> 📌 *Dashboard Screenshot:*
+> ![Dashboard Screenshot](https://github.com/jathin1407/The-Guac-Stop-Data-Warehousing-Project/blob/main/Dashboard_Screenshot.png?raw=true)
+
 
 
 ---
