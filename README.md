@@ -12,7 +12,7 @@ This work was completed as part of a coursework project and showcases practical 
 
 - **Oracle Cloud** – Data warehouse deployment and SQL schema management  
 - **Apache Hop** – ETL development for data cleansing and loading  
-- **Tableau** – Business dashboard for interactive data analysis  
+- **PowerBI** – Business dashboard for interactive data analysis  
 
 ---
 
@@ -24,6 +24,10 @@ This work was completed as part of a coursework project and showcases practical 
 - Used SQL DDL to design relationships between entities (e.g., Date, Product, Customer, City).
 - Enriched the Date Dimension to support advanced time-series reporting (quarter, month, year).
 
+> 📷 *ER Diagram:*  
+![ER Diagram](https://github.com/jathin1407/The-Guac-Stop-Data-Warehousing-Project/blob/main/Diagram%20with%20Realtionship.png?raw=true)
+
+
 ### 2. 🛠️ ETL Pipeline with Apache Hop
 
 - Developed a transformation pipeline to ingest raw data into the data warehouse.
@@ -31,6 +35,11 @@ This work was completed as part of a coursework project and showcases practical 
   - Column renaming for reserved keywords (`Date` ➝ `DateValue`)
   - Missing foreign keys and null handling
   - Schema mismatches across staging and final warehouse layers
+ 
+📷 *ETL Pipeline Flow:*  
+![ETL Pipeline](https://github.com/jathin1407/The-Guac-Stop-Data-Warehousing-Project/blob/main/Pipeline_Screenshot.png?raw=true)
+
+
 
 ### 3. 📊 Sales Performance Dashboard in Tableau
 
