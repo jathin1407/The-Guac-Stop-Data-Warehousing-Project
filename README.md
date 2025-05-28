@@ -47,7 +47,7 @@ The final dashboard provides a comprehensive view of The Guac Stop's sales opera
 - **Summary Table**: Brand, Subcategory, Quantity, and Sales Price breakdown
 
 > 📌 *Dashboard Screenshot:*  
-> ![Sales Dashboard](screenshots/the_guac_stop_dashboard.png)
+
 
 ---
 
@@ -58,9 +58,4 @@ The final dashboard provides a comprehensive view of The Guac Stop's sales opera
 - **Insightful Visualization**: Actionable insights delivered via user-friendly dashboard  
 - **Business Filters**: City and category filters to enable drill-down views  
 
----
-
-## 📂 Screenshots
-
-Please add your dashboard screenshot to a `screenshots/` folder in the repo.
 
